@@ -87,6 +87,7 @@ SUTHERLAND GLOBAL SERVICES	Technical SUPPORT ENGINEER	JAN 2007 - MAY 2008
 IT Professional Certifications
 
 
+✓	PMP Edge Foundation by PMI USA
 ✓	Agile Project Management - PRINCE2 Agile certified from AXELOS
 ✓	RPA Developer Foundation Diploma from UiPath
 ✓	ITIL V3 Foundation Certification from EXIN and AXELOS. Registration # 5952678
