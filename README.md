@@ -2,7 +2,7 @@
 Sachin BP Shetty
 
                 Email: sachin.bpshetty@Gmail.com |Mobile: 9845451933| Hyderabad|India|500055| 
-Blog page: https://o365sachin.wordpress.com/ 
+Blog page: https://sachinshetty10.wordpress.com/about
 MSFT TechNet Profile:  https://social.technet.microsoft.com/Profile/SachinBPShetty
 _____________________________________________________________________________                     
 
